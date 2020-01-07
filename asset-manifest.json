@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mbalazy/monster/static/css/main.ab4ffd2f.chunk.css",
+    "main.js": "/mbalazy/monster/static/js/main.2e1f6232.chunk.js",
+    "main.js.map": "/mbalazy/monster/static/js/main.2e1f6232.chunk.js.map",
+    "runtime-main.js": "/mbalazy/monster/static/js/runtime-main.5ef1743e.js",
+    "runtime-main.js.map": "/mbalazy/monster/static/js/runtime-main.5ef1743e.js.map",
+    "static/js/2.7e7ae4cf.chunk.js": "/mbalazy/monster/static/js/2.7e7ae4cf.chunk.js",
+    "static/js/2.7e7ae4cf.chunk.js.map": "/mbalazy/monster/static/js/2.7e7ae4cf.chunk.js.map",
+    "index.html": "/mbalazy/monster/index.html",
+    "precache-manifest.513f310802a1580d656487c7f6390a0c.js": "/mbalazy/monster/precache-manifest.513f310802a1580d656487c7f6390a0c.js",
+    "service-worker.js": "/mbalazy/monster/service-worker.js",
+    "static/css/main.ab4ffd2f.chunk.css.map": "/mbalazy/monster/static/css/main.ab4ffd2f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ef1743e.js",
+    "static/js/2.7e7ae4cf.chunk.js",
+    "static/css/main.ab4ffd2f.chunk.css",
+    "static/js/main.2e1f6232.chunk.js"
+  ]
+}
